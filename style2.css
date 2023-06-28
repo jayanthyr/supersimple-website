@@ -1,0 +1,15 @@
+body{
+    padding:5% 10%;
+    margin: 50px;
+    font-size: 2rem;
+}
+ol{
+    list-style-type:lower-alpha;
+}
+li{
+    color:red;
+
+}
+::marker{
+    color:black;
+}
